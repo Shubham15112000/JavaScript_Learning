@@ -1,0 +1,20 @@
+var name1 ="shubham";
+var name2 ="sawale";
+console.log();
+console.log("Before swap....");
+console.log(name1,name2);
+var temp=name1;
+name1=name2;
+name2=temp;    
+console.log("after swap....");
+console.log(name1,name2);
+
+var name1=100;
+var name2=200;
+console.log("befor swap...");
+console.log(name1,name2);
+var temp = name1;
+name1 =name2;
+name2=temp;
+console.log("after swap....");
+console.log(name1,name2);
